@@ -1,5 +1,16 @@
 # Usage: pip install -r requirements.txt
 
+streamlit
+schedule
+Js2Py
+protobuf>=4.21.12
+base64
+io
+datetime
+sys
+models
+utils
+
 # Base ----------------------------------------
 matplotlib>=3.2.2
 numpy>=1.18.5
